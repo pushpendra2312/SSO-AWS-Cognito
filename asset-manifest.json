@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/custom-login-aws-cognito/static/css/main.073c9b0a.css",
+    "main.js": "/custom-login-aws-cognito/static/js/main.3fd6d385.js",
+    "static/js/787.50edccc6.chunk.js": "/custom-login-aws-cognito/static/js/787.50edccc6.chunk.js",
+    "static/media/logo.svg": "/custom-login-aws-cognito/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/custom-login-aws-cognito/index.html",
+    "main.073c9b0a.css.map": "/custom-login-aws-cognito/static/css/main.073c9b0a.css.map",
+    "main.3fd6d385.js.map": "/custom-login-aws-cognito/static/js/main.3fd6d385.js.map",
+    "787.50edccc6.chunk.js.map": "/custom-login-aws-cognito/static/js/787.50edccc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3fd6d385.js"
+  ]
+}
